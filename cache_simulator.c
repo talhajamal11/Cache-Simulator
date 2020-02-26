@@ -63,6 +63,7 @@ int main()
             }
             printf("Total Reads for %s = %d\n, Total Writes for %s = %d\n", file_name[i], read_count, file_name[i], write_count);
         }
+        printf("These business students are dicks\n");
     }
     return 0;
 }
